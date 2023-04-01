@@ -1,0 +1,1231 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.talk-details-container {
+  width: 191.7751rem;
+  ;
+  height: 100rem;
+  position: absolute;
+  top: 100rem;
+}
+
+.talk-details-nFi {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+
+.talk-details-nFi .group-6mtn-v72 {
+  margin-bottom: 0.4932rem;
+  width: 100%;
+  height: 238.4068rem;
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-77-XMi {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ecf2ff;
+}
+
+.talk-details-nFi .group-6mtn-v72 .image-59-rPz {
+  width: 191.7751rem;
+  height: 49.4807rem;
+  position: absolute;
+  top: 14.4446rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-78-a56 {
+  width: 191.925rem;
+  height: 50.8302rem;
+  position: absolute;
+  top: 14.2946rem;
+  background: linear-gradient(-180deg, rgba(217, 217, 217, 0) -0%, rgba(227, 231, 238, 0.5699999928) 24.27%, rgba(234, 240, 253, 0.9599999785) 85.21%, #eaf0fd 98.23%);
+}
+
+.talk-details-nFi .group-6mtn-v72 .the-hard-truth-of-studying-computer-science-3jN {
+  width: 105.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 5rem;
+  top: 27rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .thinking-of-studying-computer-science-lets-find-out-what-would-actually-be-going-on-in-universities-voA {
+  width: 106.9rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 5rem;
+  top: 35rem;
+  font-size: 2.8rem;
+  font-weight: 300;
+  line-height: 1.5102273396;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.talk-details-nFi .group-6mtn-v72 .ellipse-4-Byz {
+  width: 9.5962rem;
+  height: 9.5962rem;
+  position: absolute;
+  left: 170rem;
+  top: 10rem;
+  box-shadow: 0 0.4rem 2.8rem rgba(52, 93, 144, 0.6000000238);
+  background-color: #345d91;
+  border-radius: 4.7981rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .ellipse-6-gvk {
+  width: 9.2rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 11.2498rem;
+  top: 47rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/dohn-joe.png');
+  border-radius: 4.6rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .dohn-joe-c3i {
+  width: 10.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 50rem;
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #345d91;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .posted-1-month-ago-icY {
+  width: 20.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 43.8rem;
+  top: 50rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #c1c1c1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .item--djW {
+  width: 5.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 66.35rem;
+  top: 72rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .item--KMS {
+  width: 2.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 68.1rem;
+  top: 65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .item--Dxc {
+  width: 2.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 72rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .item--XiQ {
+  width: 2.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 12.65rem;
+  top: 65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .mentorship-with-instructor-premium-RYt {
+  width: 43.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 73rem;
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .access-on-mobile-and-web-7gc {
+  width: 31.2rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 66rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .session-recording-premium-2Hn {
+  width: 34.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 74rem;
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .hour-live-session-vtx {
+  width: 20.6rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 17.6rem;
+  top: 66rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .this-event-includes-eKA {
+  width: 27.3rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.1957rem;
+  top: 60rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.5102273396;
+  color: #345d91;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t {
+  box-sizing: border-box;
+  padding: 4.048rem 5.277rem 4.297rem 4.798rem;
+  width: 63.875rem;
+  height: 39.7345rem;
+  position: absolute;
+  left: 120rem;
+  top: 35rem;
+  box-shadow: 0 0 15.3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 {
+  margin-bottom: 0.4031rem;
+  height: 15.3407rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 .ellipse-6-Agp {
+  margin: 0rem 3.348rem 2.146rem 0rem;
+  width: 13.1948rem;
+  height: 13.1948rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/dohn-joe.png');
+  border-radius: 6.5974rem;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 .group-dosw-UBi {
+  margin: 3.421rem 12.439rem 4.694rem 0rem;
+  height: calc(100% - 8.1143rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 .group-dosw-UBi .dohn-joe-BM2 {
+  margin: 0rem 0rem 0.026rem 0.007rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 .group-dosw-UBi .therealdohnjoe-Hex {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-10-dB6 .group-uzlt-pet {
+  margin-top: 2.8489rem;
+  width: 7.4971rem;
+  height: 12.4918rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  z-index: 999;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .i-am-a-software-engineer-from-xortiv-sdn-bhd-looking-to-share-a-little-bit-of-goodness-every-day-through-daily-computer-science-tips-Yqn {
+  margin-bottom: 2.6451rem;
+  max-width: 53.8rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-4-RPn {
+  margin-right: 40.6498rem;
+  width: calc(100% - 40.6498rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-4-RPn .read-more-mTe {
+  margin-right: 2.2502rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5102272987;
+  color: #345d91;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-11-m8t .group-12-4dn .group-4-RPn .arrow-1-7Gc {
+  margin-top: 0.9484rem;
+  width: 0;
+  height: 0.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .about-the-workshop-1Mz {
+  width: 30.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 2rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5102273305;
+  color: #5040a1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .the-session-provides-an-in-depth-look-into-the-honest-experiences-of-the-speaker-going-through-his-journey-in-taking-his-degree-of-computer-science-in-universiti-sains-malaysia-and-Kda {
+  width: 122.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 7rem;
+  font-size: 2.3rem;
+  font-weight: 300;
+  line-height: 1.5652273427;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-4-Znp {
+  width: 14.7rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 15rem;
+  display: flex;
+  align-items: center;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-4-Znp .read-more-uLt {
+  margin-right: 3.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5102273768;
+  color: #5040a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-4-Znp .arrow-1-3CC {
+  margin-top: 0.1507rem;
+  width: 0;
+  height: 0.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .find-all-your-answers-related-to-this-event-axp {
+  width: 47.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 30rem;
+  font-size: 2.3rem;
+  font-weight: 300;
+  line-height: 1.5102273692;
+  text-transform: lowercase;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frequently-asked-questions-swv {
+  width: 42.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 25rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5102273305;
+  color: #5040a1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-6-zme {
+  width: 107.3581rem;
+  height: 8.5467rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 35rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-16-uNp {
+  width: 107.3581rem;
+  height: 8.5467rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 46rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-17-cY8 {
+  width: 107.3581rem;
+  height: 8.5467rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 57rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .rectangle-18-jMr {
+  width: 107.3581rem;
+  height: 8.5467rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 68rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .who-can-participate-in-this-workshop-3tL {
+  width: 44.4rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 5rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .can-i-interact-with-the-host-at-the-workshop-ACG {
+  width: 51.7rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 5rem;
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .what-are-the-prerequisites-for-joining-this-workshop-4He {
+  width: 60.9rem;
+  height: 3.5rem;
+  position: absolute;
+  font-size: 2.3rem;
+  left: 5rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .is-it-pre-recorded-or-live-workshop-ZEQ {
+  width: 40.9rem;
+  height: 3.5rem;
+  position: absolute;
+  font-size: 2.3rem;
+  left: 5rem;
+  font-weight: 500;
+  line-height: 1.5102273692;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .looking-to-interact-with-the-speaker-after-the-workshop-U6U {
+  width: 69.7rem;
+  height: 3.8rem;
+  position: absolute;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.510227356;
+  color: #5040a1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  bottom: 10rem;
+  left: 10.9rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .get-premium-now-AEC {
+  width: 28.9rem;
+  height: 4.6rem;
+  position: absolute;
+  bottom: 5rem;
+  left: 10.9rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.5102273305;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .input-4qN {
+  box-sizing: border-box;
+  padding: 0.85rem 3.45rem;
+  width: 23.7rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 80rem;
+  top: 50rem;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  background-color: #ffd9d9;
+  border-radius: 2.8rem;
+}
+
+.talk-details-nFi .group-6mtn-v72 .input-4qN .input-ySY {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2222222222;
+  color: rgba(0, 0, 0, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+}
+
+.talk-details-nFi .group-6mtn-v72 .bi-arrow-left-square-fill-3hJ {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 5rem;
+  top: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index: 10;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn {
+  box-sizing: border-box;
+  padding: 2.4rem 6.2rem 2.4rem 8rem;
+  width: 191.925rem;
+  height: 12.7rem;
+  bottom: 0;
+  position: fixed;
+  left: 0.1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 -0.7rem 10.4rem rgba(0, 0, 0, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 4rem 4rem 0 0;
+  left: 50%;
+  z-index: 999;
+  transform: translateX(-50%);
+}
+
+.registration-tab {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-m5iy-eh6 {
+  margin: 1.15rem 4.4rem 0rem 0rem;
+  width: 16.3rem;
+  height: 6.55rem;
+  position: relative;
+  flex-shrink: 0;
+
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-m5iy-eh6 .mar-2023-mmi {
+  width: 16.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.35rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-m5iy-eh6 .date-t5e {
+  width: 5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5102273768;
+  color: #5040a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-aely-BKe {
+  margin: 1.4rem 5.7rem 0rem 0rem;
+  width: 10.4rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-aely-BKe .pm-7DJ {
+  width: 10.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-aely-BKe .time-2bA {
+  width: 5.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5102273768;
+  color: #5040a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-znxy-kGG {
+  margin: 1.35rem 6.2rem 0rem 0rem;
+  width: 9.2rem;
+  height: 6.35rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-znxy-kGG .min-g9v {
+  width: 8.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 3.15rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-znxy-kGG .duration-zgQ {
+  width: 9.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5102273768;
+  color: #5040a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-vlpa-W8x {
+  margin: 1.15rem 73.8rem 0rem 0rem;
+  width: 18.7rem;
+  height: 6.55rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-vlpa-W8x .attendees-qh2 {
+  width: 18.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.35rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-vlpa-W8x .signups-xWk {
+  width: 8.7rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5102273768;
+  color: #5040a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-6mtn-v72 .frame-63-NDn .group-stac-GnL {
+  width: 33rem;
+  height: 8rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #345d91;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .vector-jA8 {
+  width: 2.9rem;
+  height: 4.3269rem;
+  position: absolute;
+  left: 173.3rem;
+  top: 12.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC {
+  width: 172.7rem;
+  height: 6rem;
+  position: absolute;
+  top: 6.1rem;
+  display: flex;
+  align-items: center;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .pathfinderlogo-removebg-preview-4-L9v {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .content--3q2 {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .content--3q2 .magnifyingglass-sp4 {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .content--3q2 .placeholder-label-A2U {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .content--3q2 .mic-UJ4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .insights-bNg {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .experience-vfr {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .group-h5eg-17e .mentorship-TQt {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .group-81-4iC .image-86-Bbn {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/dp.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-6mtn-v72 .material-symbols-keyboard-arrow-down-rounded-6Cx {
+  width: 2.3229rem;
+  height: 1.3646rem;
+  position: absolute;
+  right: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talk-details-nFi .group-6mtn-v72 .material-symbols-keyboard-arrow-down-rounded-1Kv {
+  width: 2.3229rem;
+  height: 1.3646rem;
+  position: absolute;
+  right: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talk-details-nFi .group-6mtn-v72 .material-symbols-keyboard-arrow-down-rounded-8QY {
+  width: 2.3229rem;
+  height: 1.3646rem;
+  position: absolute;
+  right: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talk-details-nFi .group-6mtn-v72 .material-symbols-keyboard-arrow-down-rounded-etg {
+  width: 2.3229rem;
+  height: 1.3646rem;
+  position: absolute;
+  right: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talk-details-nFi .group-99-Bdi {
+  box-sizing: border-box;
+  width: 100%;
+  justify-content: center;
+  padding: 3.7rem 25.4rem 1.2rem 10rem;
+  display: flex;
+  align-items: center;
+  background-color: #423e6c;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .pathfinderlogo-removebg-preview-2-WR6 {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-aamv-pRn {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-aamv-pRn .navigate-Z8U {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-aamv-pRn .insights-HaG {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-aamv-pRn .job-experience-2Gx {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-aamv-pRn .dashboard-9sN {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .pathfinder-h8C {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-nu7i-Q2c {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-nu7i-Q2c .about-vme {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-nu7i-Q2c .about-us-GqW {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-nu7i-Q2c .mission-CUG {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-nu7i-Q2c .vision-jDJ {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-vzlx-fMr {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-vzlx-fMr .contact-1Ap {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talk-details-nFi .group-99-Bdi .group-vzlx-fMr .group-ow1j-wKN {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.talk-details-nFi .group-99-Bdi .group-vzlx-fMr .group-ow1j-wKN .vector-gXr {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .group-vzlx-fMr .group-ow1j-wKN .uiw-facebook-o6g {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.talk-details-nFi .group-99-Bdi .vector-ufW {
+  margin-bottom: 7.5rem;
+  width: 3.6rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/instagram.png');
+  flex-shrink: 0;
+}
+
+a {
+  text-decoration: none;
+}

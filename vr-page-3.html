@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>VR Page - 360 Video</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600"/>
+  <link rel="stylesheet" href="./styles/vr-page-3.css"/>
+</head>
+<body>
+<div class="vr-page-B44">
+  <img id="startimg" src="images/Fork-Knife2.png" />
+  <div class="video-wrapper">
+    <video id="video1">
+      <source src="images/360VRTHING.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="group-qnac-fzp">
+    <div class="group-76-Cjr">
+      <form>
+        <img class="bi-arrow-left-square-fill-Aq6" src="./images/left-arrow-white.png" onclick="history.back()"/></img>
+       </form>
+    </div>
+    <div class="group-75-5x4">
+      <div class="group-2vzq-qRS">
+        <img class="polygon-1-MPn" src="./images/polygon-1.png"/>
+        <div class="frame-7-GWk">
+          <p class="its-your-first-day-as-a-pilot-feel-free-to-explore-the-cockpit-use-the-esc-key-to-return-to-browse-CfJ">It’s your first day as a lecturer! Move your mouse to view your surroundings in 360°. Use the Back button to exit.</p>
+        </div>
+      </div>
+      <div class="group-xtrs-SZe">
+        <img class="untitleddesign-removebg-preview-2-PDz" src="./images/koala.png"/>
+        <p class="tap-to-close-Jbr">Tap to Close</p>
+      </div>
+    </div>
+  </div>
+  <img class="a360degrees" src="images/degrees-svgrepo-com-1.png"/>
+  <div class="use-the-arrow-keys-to-move-around-Kmr">Drag the screen with your mouse to view your surroundings in 360°</div>
+</div>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+var image = document.getElementById("startimg");
+// document.body.appendChild(image);
+var video1 = document.getElementById("video1");
+video1.style.display = "none";
+
+image.addEventListener("click", () => {
+  image.style.display = "none";
+  video1.style.display = "block";
+  video1.play();
+});
+
+$(document).ready(function() {
+  setTimeout(function() {
+    $('.group-75-5x4').fadeOut();
+    $('.a360degrees').fadeOut();
+  }, 8000); // 8000ms = 8 seconds
+});
+</script>

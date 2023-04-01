@@ -1,0 +1,683 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.personality-test-page-3-ZK6 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background-color: #ecf2ff;
+  display: flex;
+  justify-content: center;
+}
+
+.personality-container {
+  height: 100%;
+  width: 113.4rem;
+  position: relative;
+}
+
+.personality-test-page-3-ZK6 .pathfinderlogo-removebg-preview-2-erL {
+  width: 23.2rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 {
+  width: 113.4rem;
+  height: 4rem;
+  position: absolute;
+  top: 30.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .rectangle-85-T36 {
+  width: 109.9rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.6rem;
+  background-color: #655dba;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-8-knt {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #655dbb;
+  border-radius: 2rem;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-9-VkU {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-10-drg {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 0;
+  background-color: #655dba;
+  border-radius: 2rem;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-11-NZN {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-12-uJQ {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 36.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-13-rDe {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 45.6rem;
+  top: 0;
+  background-color: #655dba;
+  border-radius: 2rem;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-14-C2c {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-15-joE {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 63.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-16-seY {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 0;
+  background-color: #655dba;
+  border-radius: 2rem;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-17-bqS {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 82rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-18-M3v {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 91rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-19-VR2 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 100.2rem;
+  top: 0;
+  background-color: #655dba;
+  border-radius: 2rem;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .ellipse-20-E7i {
+  width: 4.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-1-Nji {
+  width: 0.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-2-PYL {
+  width: 1.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 10.55rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-3-VrG {
+  width: 1.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-4-wiG {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 28.6rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-5-raL {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-6-y9A {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 47rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-7-gZN {
+  width: 1.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 56.05rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-8-bAY {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 65rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-9-tfS {
+  width: 1.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 74.35rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-10-ygt {
+  width: 2.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 82.95rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-11-Tc4 {
+  width: 1.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 92.35rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-12-MxL {
+  width: 2.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 101.25rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-ayqg-xc8 .item-13-reC {
+  width: 2.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet {
+  width: 105.65rem;
+  height: 33.15rem;
+  position: absolute;
+  top: 43.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-9udn-tqn {
+  margin-bottom: 3.9rem;
+  width: 90.225rem;
+  height: 20.25rem;
+  position: relative;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-9udn-tqn .untitleddesign-removebg-preview-2-Rap {
+  width: 15.6rem;
+  height: 14.25rem;
+  position: absolute;
+  left: 0;
+  top: 3.45rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-9udn-tqn .polygon-1-Lxg {
+  width: 2.55rem;
+  height: 3rem;
+  position: absolute;
+  left: 15.525rem;
+  top: 9.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-9udn-tqn .frame-7-fzx {
+  box-sizing: border-box;
+  padding: 6.6rem 14.525rem 6.55rem 13.875rem;
+  width: 72.9rem;
+  height: 20.25rem;
+  position: absolute;
+  left: 17.325rem;
+  top: 0;
+  box-shadow: 0 0 4.6rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #655dbb;
+  border-radius: 0.9rem;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-9udn-tqn .frame-7-fzx .i-am-comfortable-speaking-in-front-of-a-group-of-people-ykk {
+  max-width: 44.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc {
+  margin-left: 7.95rem;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .agree-Bbv {
+  margin: 0rem 3.25rem 0.3rem 0rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #43d100;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .ellipse-1-i64 {
+  width: 9rem;
+  height: 9rem;
+  border: solid 0.2rem #43d100;
+  box-sizing: border-box;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi {
+  box-sizing: border-box;
+  padding: 0.75rem 3.3rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi .ellipse-6-xm6 {
+  width: 7.5rem;
+  height: 7.5rem;
+  border: solid 0.2rem #5ec030;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3.75rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi .ellipse-5-6MW {
+  width: 6rem;
+  height: 6rem;
+  border: solid 0.2rem #609248;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi .ellipse-4-Reg {
+  width: 4.5rem;
+  height: 4.5rem;
+  border: solid 0.2rem #828282;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 2.25rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi .ellipse-3-ZVz {
+  width: 6rem;
+  height: 6rem;
+  border: solid 0.2rem #6e6e6e;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-ani4-dyi .ellipse-2-WAL {
+  width: 7.5rem;
+  height: 7.5rem;
+  border: solid 0.2rem #505050;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3.75rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-x4xg-Ec8 {
+  margin-right: 2.85rem;
+  box-sizing: border-box;
+  padding: 1.75rem 1.725rem 1.625rem 1.65rem;
+  width: 9rem;
+  height: 100%;
+  border: solid 0.2rem #000000;
+  background-color: #000000;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-x4xg-Ec8 .icon-check-y3v {
+  box-sizing: border-box;
+  padding: 1.2891rem 0.5859rem;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.0099999998);
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .group-x4xg-Ec8 .icon-check-y3v .vector-hVi {
+  width: 4.4531rem;
+  height: 3.0469rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-3-ZK6 .group-65-Aet .group-bnze-3kc .disagree-oHr {
+  margin-bottom: 0.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .welcome-to-personality-test-ifi {
+  width: 48.1rem;
+  height: 4.3rem;
+  position: absolute;
+  top: 15.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.1800000932;
+  letter-spacing: -0.18rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.personality-test-page-3-ZK6 .where-we-guide-you-on-your-journey-of-discovering-your-career-path-QHe {
+  width: 103.3rem;
+  height: 3.6rem;
+  position: absolute;
+  top: 21.4rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #757575;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.personality-test-page-3-ZK6 .group-98-V4C {
+  width: 68.4rem;
+  height: 5.55rem;
+  position: absolute;
+  top: 84.6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.personality-test-page-3-ZK6 .group-98-V4C .group-zzvx-noz {
+  box-sizing: border-box;
+  padding: 1.1rem 4.75rem 0.85rem 3.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 1.9rem rgba(101, 93, 187, 0.4099999964);
+  background-color: #655dbb;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-98-V4C .group-zzvx-noz .icon-arrow-right-JnL {
+  margin: 0rem 1.822rem 0.321rem 0rem;
+  width: 2.3779rem;
+  height: 2.0788rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-98-V4C .group-zzvx-noz .previous-2CY {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .group-98-V4C .group-x7ha-7jn {
+  width: 22.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 1.9rem rgba(101, 93, 187, 0.4099999964);
+  background-color: #655dbb;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-3-ZK6 .bi-arrow-left-square-fill-atG {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 15.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,268 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+}
+
+.begin-vr-experience-page-VRJ {
+  box-sizing: border-box;
+  padding: 4.7rem 9.7rem 20.3rem 9.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/lecturer-1.png');
+  background-color: #ffffff;
+  justify-content: center;
+}
+
+.group-73-C4p {
+  margin-bottom: 5.3rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.group-rnr6-Xct {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.pathfinderlogo-removebg-preview-1-1nx {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.content--6pQ {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.magnifyingglass-KhA {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.placeholder-label-zoJ {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mic-77E {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.insights-CeU {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.experience-8HE {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mentorship-3uz {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.image-86-nsa {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/dp.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.bi-arrow-left-square-fill-uBW {
+  margin: 0rem 166.7rem 15.05rem -10rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.experience-being-a-passenger-aircraft-pilot-R9r {
+  margin: 0rem 0rem 3.85rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.created-by-pathfinder-team-7YU {
+  margin-bottom: 14.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.7rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.select-an-experience-to-begin-DrQ {
+  margin: 0rem 0.1rem 3.1rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  height: 8rem;
+  border-radius: 10px;
+}
+
+.group-6wka-wGc {
+  margin: 0rem 43.3rem 0rem 43.4rem;
+  width: calc(100% - 86.7rem);
+  height: 11.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.group-fdua-fTW {
+  margin-right: 17.2rem;
+  width: 34.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1800000763;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ecf2ff;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+
+.group-fcst-M5S {
+  width: 34.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1800000763;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ecf2ff;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}

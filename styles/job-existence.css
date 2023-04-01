@@ -1,0 +1,1165 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.job-existence-G7A {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.job-existence-G7A .group-wv68-9Ax {
+  box-sizing: border-box;
+  padding: 4.6rem 0rem 13.8rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf2ff;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix {
+  margin: 0rem 9.7rem 2.1rem 9.6rem;
+  width: calc(100% - 19.3rem);
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .pathfinderlogo-removebg-preview-4-8BJ {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .content--bKn {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .content--bKn .magnifyingglass-JdW {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .content--bKn .placeholder-label-GTr {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .content--bKn .mic-Wd6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .insights-vRv {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .experience-bHA {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .group-2czn-SZN .mentorship-skU {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-84-1ix .image-86-Ltx {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/image-86-cV6.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t {
+  width: 100%;
+  height: 427.6rem;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .image-80-ZfE {
+  width: 192rem;
+  height: 52.3rem;
+  position: relative;
+  left: 0;
+  top: 1.7rem;
+  background-size: 103.415% 213.215%;
+  background-position: -3.278rem -8.0923rem;
+  background-image: url('../images/image-80.png');
+  border-radius: 2rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-78-nH6 {
+  width: 192rem;
+  height: 52.5rem;
+  position: absolute;
+  top: 1.7rem;
+  background: linear-gradient(-180deg, rgba(217, 217, 217, 0) -0%, rgba(227, 231, 238, 0.5699999928) 24.27%, rgba(234, 240, 253, 0.9599999785) 85.21%, #eaf0fd 98.23%);
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-81-ysN {
+  width: 158.6rem;
+  height: 389.6rem;
+  position: absolute;
+  top: 38rem;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .you-are-sociable-given-that-you-are-extraverted-and-this-will-allow-you-to-not-mind-going-out-of-the-way-to-interact-with-people-in-solving-code-related-issues-dwv {
+  width: 136.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 36rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .future-predictions-B6G {
+  width: 27.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 360rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.0166666667;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .software-engineering-DYk {
+  width: 60.5rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 11rem;
+  top: 23.7rem;
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .input-SRW {
+  box-sizing: border-box;
+  padding: 0.85rem 3.45rem;
+  width: 23.7rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 78.8rem;
+  top: 27.2rem;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  background-color: #ffd9d9;
+  border-radius: 2.8rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .input-SRW .input-hsE {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2222222222;
+  color: rgba(0, 0, 0, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .dalle-2023-03-13-1520-1-hVr {
+  width: 45.6rem;
+  height: 41.7rem;
+  position: absolute;
+  left: 6rem;
+  top: 209rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .software-engineering-is-a-continuous-learning-process-that-requires-professionals-to-stay-up-to-date-with-the-latest-trends-and-technologies-therefore-software-engineers-need-to-engage-in-continuous-learning-and-professional-development-activities-such-as-attending-conferences-workshops-and-taking-online-courses-software-engineering-requires-a-combination-of-technical-and-soft-skills-LYp {
+  width: 92.3rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 56rem;
+  top: 209rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.9863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .click-here-to-view-the-future-predictions-of-software-engineering-CUY {
+  width: 69.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 365rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  text-decoration-line: underline;
+  color: #345d91;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6 {
+  width: 143.7rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 6rem;
+  top: 169rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.90625;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6 .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6-sub-0 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.0166666667;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6 .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6 .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6-sub-3 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.0166666667;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6 .introduction-to-software-engineering-software-engineering-is-a-branch-of-computer-science-that-involves-the-design-development-testing-and-maintenance-of-software-its-a-challenging-and-rewarding-field-that-requires-creativity-logical-thinking-and-attention-to-detail-software-engineering-plays-a-significant-role-in-various-industries-such-as-healthcare-finance-transportation-and-education-in-this-article-well-explore-what-it-takes-to-become-a-software-engineer-and-what-skills-and-insights-you-need-to-succeed-in-this-field-journey-to-becoming-a-software-engineer-the-journey-to-becoming-a-software-engineer-varies-depending-on-individual-interests-career-goals-and-educational-background-however-most-software-engineers-typically-hold-a-bachelors-degree-in-computer-science-software-engineering-or-a-related-field-in-addition-to-formal-education-software-engineers-can-gain-practical-experience-through-internships-coding-boot-camps-and-open-source-contributions-1B6-sub-4 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp {
+  width: 116.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 10rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp-sub-0 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 0.8714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp-sub-1 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 0.61;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  margin-left: 2rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp-sub-2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  margin-left: 2rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp .based-on-your-personality-you-are-87-compatible-with-this-job-Fnp-sub-3 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 0.8714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .sociability-Aye {
+  width: 17rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 21rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.953125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .adaptability-zSt {
+  width: 20.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 50rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.953125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k {
+  width: 143rem;
+  height: 24.5rem;
+  position: absolute;
+  left: 6rem;
+  top: 256rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.90625;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-3 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-4 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-5 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-6 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-7 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-8 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-9 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k .communication-software-engineers-should-be-able-to-communicate-effectively-with-team-members-clients-and-stakeholders-collaboration-software-engineering-is-a-team-sport-and-software-engineers-should-work-collaboratively-to-solve-problems-and-deliver-high-quality-software-time-management-software-engineers-need-to-manage-their-time-effectively-to-meet-deadlines-and-deliver-high-quality-software-problem-solving-software-engineers-should-be-able-to-identify-analyze-and-solve-complex-problems-efficiently-D4k-sub-10 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt {
+  width: 75.4rem;
+  height: 51.9rem;
+  position: absolute;
+  left: 6rem;
+  top: 295rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-2 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-4 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-5 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-6 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-7 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2708333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-8 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt .programming-languages-to-succeed-in-software-engineering-it-is-essential-to-have-a-combination-of-technical-skills-and-soft-skills-technical-skills-include-proficiency-in-programming-languages-such-as-java-python-and-c-as-well-as-an-understanding-of-data-structures-algorithms-and-software-design-principles-software-development-tools-software-engineers-should-be-familiar-with-software-development-tools-such-as-integrated-development-environments-ides-version-control-systems-and-issue-tracking-systems-database-management-software-engineers-should-have-a-good-understanding-of-database-management-concepts-such-as-sql-and-nosql-software-design-patterns-software-engineers-should-be-familiar-with-software-design-patterns-to-develop-scalable-and-maintainable-software-systems-1xt-sub-9 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3863636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .image-83-Lyn {
+  width: 73.5rem;
+  height: 73.5rem;
+  position: absolute;
+  left: 85rem;
+  top: 285rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .technical-skills--oMa {
+  width: 24.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 290rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.0166666667;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-25-e7J {
+  width: 24.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 93rem;
+  top: 27rem;
+  background-color: #ecf2ff;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-24-Vdi {
+  width: 78rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 27rem;
+  background-color: #345d91;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .item-89-bRr {
+  width: 6.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 27.75rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .you-are-adaptable-and-this-will-help-you-in-this-job-as-there-will-be-a-lot-of-changes-to-new-softwares-and-new-user-requirements-coming-in-constantly-Rvg {
+  width: 137.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 65rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-110-29n {
+  width: 24.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 93rem;
+  top: 56rem;
+  background-color: #ecf2ff;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-111-j4C {
+  width: 76.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 56rem;
+  background-color: #345d91;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .item-86-1Gc {
+  width: 6.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 56.75rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .problem-solving-fc4 {
+  width: 27.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 79rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.953125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .you-are-a-good-problem-solver-given-that-you-are-always-looking-to-solve-any-issues-that-come-your-way-and-this-is-extremely-important-when-fixing-bugs-that-appear-in-the-software-LLp {
+  width: 139.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 94rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-112-otc {
+  width: 24.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 93rem;
+  top: 113rem;
+  background-color: #ecf2ff;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-116-5LL {
+  width: 24.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 93rem;
+  top: 142rem;
+  background-color: #ecf2ff;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-117-Moe {
+  width: 24.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 93rem;
+  top: 85rem;
+  background-color: #ecf2ff;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-113-fZS {
+  width: 73.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 85rem;
+  background-color: #345d91;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .item-83-mMa {
+  width: 6.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 85.75rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .creativity-yiY {
+  width: 16.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 108rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.953125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .you-are-creative-and-always-seek-to-explore-new-options-that-arise-and-are-not-afraid-of-seeking-the-lesser-known-path-which-can-be-useful-when-trying-to-find-ways-to-make-a-software-or-create-something-that-stands-out-P1a {
+  width: 135.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 123rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-114-vQp {
+  width: 71.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 113rem;
+  background-color: #345d91;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .item-78-akG {
+  width: 6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 113.65rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .logical-384 {
+  width: 11.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 137rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.953125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .you-are-a-logical-thinker-and-will-not-be-affected-much-by-emotions-when-making-any-decisions-and-would-be-more-on-using-your-head-when-trying-to-code-new-projects-Dwe {
+  width: 139.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6rem;
+  top: 152rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .rectangle-115-MAg {
+  width: 69.2rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30rem;
+  top: 142rem;
+  background-color: #345d91;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .item-76-q5r {
+  width: 6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 142.65rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .ellipse-4-FfN {
+  width: 9.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 176.25rem;
+  top: 29.15rem;
+  box-shadow: 0 0.4rem 2.8rem rgba(52, 93, 144, 0.6000000238);
+  background-color: #345d91;
+  border-radius: 4.8rem;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .bi-arrow-left-square-fill-swe {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .soft-skills--Avk {
+  width: 15.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6rem;
+  top: 253rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.90625;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .soft-skills--Avk .soft-skills--Avk-sub-0 {}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .soft-skills--Avk .soft-skills--Avk-sub-1 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.0166666667;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-G7A .group-wv68-9Ax .group-svgu-B8t .vector-UCg {
+  width: 2.9rem;
+  height: 4.1242rem;
+  position: absolute;
+  left: 179.6rem;
+  top: 31.8567rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-G7A .group-99-vqN {
+  box-sizing: border-box;
+  padding: 3.7rem 10rem 1.2rem 10rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #423e6c;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .pathfinderlogo-removebg-preview-2-wEg {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-p9fn-nFJ {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-p9fn-nFJ .navigate-fZz {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-p9fn-nFJ .insights-Mhi {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-p9fn-nFJ .job-experience-pLQ {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-p9fn-nFJ .dashboard-7aQ {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .pathfinder-pDv {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-wquj-dSG {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-wquj-dSG .about-vwA {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-wquj-dSG .about-us-2jJ {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-wquj-dSG .mission-5ha {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-wquj-dSG .vision-Ayv {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-3mmr-stL {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-3mmr-stL .contact-MYc {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-G7A .group-99-vqN .group-3mmr-stL .group-g6al-T5r {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.job-existence-G7A .group-99-vqN .group-3mmr-stL .group-g6al-T5r .vector-NCp {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .group-3mmr-stL .group-g6al-T5r .uiw-facebook-deY {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.job-existence-G7A .group-99-vqN .vector-fbE {
+  margin-bottom: 7.5rem;
+  width: 3.6rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/instagram.png');
+  flex-shrink: 0;
+}
+
+.rectangle-81-ysN>* {
+  left: 10rem;
+}

@@ -1,0 +1,657 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.personality-test-page-4-UoA {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background-color: #ecf2ff;
+  display: flex;
+  justify-content: center;
+}
+
+.personality-container {
+  height: 100%;
+  width: 113.4rem;
+  position: relative;
+}
+
+.personality-test-page-4-UoA .pathfinderlogo-removebg-preview-2-zFi {
+  width: 23.2rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n {
+  width: 113.4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 30.1rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .rectangle-85-PHr {
+  width: 109.9rem;
+  height: 0.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.7rem;
+  background-color: #cecece;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .rectangle-86-hpL {
+  width: 9rem;
+  height: 0.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.7rem;
+  background-color: #cecece;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-8-Smv {
+  width: 4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-9-zoS {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-10-8ue {
+  width: 4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-11-Uic {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-12-QsA {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 36.4rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-13-kg8 {
+  width: 4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 45.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-14-Vtc {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-15-qSg {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 63.7rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-16-mLL {
+  width: 4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 72.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-17-iFa {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 82rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-18-fAp {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 91rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-19-1Eg {
+  width: 4rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 100.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .ellipse-20-MZS {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 109.3rem;
+  top: 0;
+  background-color: #cecece;
+  border-radius: 2.05rem;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-1-V9r {
+  width: 0.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-2-Amn {
+  width: 1.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 10.55rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-3-sRJ {
+  width: 1.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-4-zF2 {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 28.6rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-5-WUG {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 37.8rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-6-EfA {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 47rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-7-NFa {
+  width: 1.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 56.05rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-8-V5J {
+  width: 1.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 65rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-9-13e {
+  width: 1.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 74.35rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-10-L5v {
+  width: 2.2rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 82.95rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-11-ecQ {
+  width: 1.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 92.35rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-12-NYQ {
+  width: 2.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 101.25rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-tb5j-u7n .item-13-HvG {
+  width: 2.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 0.8rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .group-65-1bN {
+  width: 105.65rem;
+  height: 47.15rem;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 43.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-dvm2-Lde {
+  margin: 0rem 15.425rem 3.9rem 0rem;
+  width: 90.225rem;
+  height: 20.25rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-dvm2-Lde .untitleddesign-removebg-preview-2-TTN {
+  width: 15.6rem;
+  height: 14.25rem;
+  position: absolute;
+  left: 0;
+  top: 3.45rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-dvm2-Lde .polygon-1-myr {
+  width: 2.55rem;
+  height: 3rem;
+  position: absolute;
+  left: 15.525rem;
+  top: 9.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-dvm2-Lde .frame-7-WAk {
+  box-sizing: border-box;
+  padding: 5.1rem 14.625rem 4.45rem 12.975rem;
+  width: 72.9rem;
+  height: 20.25rem;
+  position: absolute;
+  left: 17.325rem;
+  top: 0;
+  box-shadow: 0 0 4.6rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #655dbb;
+  border-radius: 0.9rem;
+}
+
+.i-enjoy-working-independently-and-being-responsible-for-my-own-tasks-R2p {
+  max-width: 45.3rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe {
+  margin: 0rem 0rem 8.45rem 7.95rem;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .agree-Q9e {
+  margin: 0rem 3.25rem 0.3rem 0rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #43d100;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .ellipse-1-8LY {
+  width: 9rem;
+  height: 9rem;
+  border: solid 0.2rem #43d100;
+  box-sizing: border-box;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E {
+  box-sizing: border-box;
+  padding: 0.75rem 3.3rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .group-sfzq-wHz {
+  box-sizing: border-box;
+  padding: 1.5rem 1.525rem 1.675rem 1.65rem;
+  height: 100%;
+  border: solid 0.2rem #5ec030;
+  background-color: #5fc031;
+  border-radius: 3.75rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .group-sfzq-wHz .icon-check-fzg {
+  width: 4.325rem;
+  height: 4.325rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .ellipse-5-abr {
+  width: 6rem;
+  height: 6rem;
+  border: solid 0.2rem #609248;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .ellipse-4-WkQ {
+  width: 4.5rem;
+  height: 4.5rem;
+  border: solid 0.2rem #828282;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 2.25rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .ellipse-3-ebi {
+  width: 6rem;
+  height: 6rem;
+  border: solid 0.2rem #6e6e6e;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .group-xmsx-s3E .ellipse-2-N1v {
+  width: 7.5rem;
+  height: 7.5rem;
+  border: solid 0.2rem #505050;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 3.75rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .ellipse-7-GNC {
+  margin-right: 2.85rem;
+  width: 9rem;
+  height: 9rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-gyx6-gDe .disagree-ATa {
+  margin-bottom: 0.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-uavc-uAG {
+  box-sizing: border-box;
+  padding: 1.1rem 5.972rem 0.85rem 6.65rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 1.9rem rgba(101, 93, 187, 0.4099999964);
+  background-color: #655dbb;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-uavc-uAG .next-PbE {
+  margin-right: 2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .group-65-1bN .group-uavc-uAG .icon-arrow-right-wMr {
+  margin-bottom: 0.1212rem;
+  width: 2.3779rem;
+  height: 2.0788rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.personality-test-page-4-UoA .welcome-to-personality-test-DKN {
+  width: 48.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 15.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.1800000932;
+  letter-spacing: -0.18rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .where-we-guide-you-on-your-journey-of-discovering-your-career-path-uT6 {
+  width: 103.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 21.4rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #757575;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.personality-test-page-4-UoA .bi-arrow-left-square-fill-7p4 {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 15.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}

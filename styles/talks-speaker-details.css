@@ -1,0 +1,611 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+.talks-speaker-details-d7n {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz {
+  box-sizing: border-box;
+  padding: 4.7rem 9.7rem 7.8rem 9.6rem;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf2ff;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL {
+  margin-bottom: 11.3rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .pathfinderlogo-removebg-preview-4-t5e {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .content--vo2 {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .content--vo2 .magnifyingglass-Ui4 {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .content--vo2 .placeholder-label-FMS {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .content--vo2 .mic-fg4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .insights-jR2 {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .experience-Zur {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .group-ecak-Peg .mentorship-Fng {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-72-JNL .image-86-Ymn {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/dp.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 {
+  margin: 0rem 4.05rem 4.6rem 0rem;
+  width: 168.25rem;
+  height: 36.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg {
+  width: 168.15rem;
+  height: 36.75rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.05rem;
+  box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-12-KZa {
+  width: 111.7rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 46.7rem;
+  top: 4.65rem;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-12-KZa .group-10-b1J {
+  margin: 0rem 71.6rem 0.4rem 0rem;
+  width: calc(100% - 71.6rem);
+  display: flex;
+  align-items: center;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-12-KZa .group-10-b1J .dohn-joe-VMa {
+  margin-right: 3.8rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-12-KZa .group-10-b1J .therealdohnjoe-CFz {
+  margin-top: 1.4rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-12-KZa .i-am-a-software-engineer-from-xortiv-sdn-bhd-looking-to-share-a-little-bit-of-goodness-every-day-through-daily-computer-science-tips-a-person-with-an-interest-in-solving-problems-i-usually-loves-to-think-outside-of-the-box-and-strives-to-be-the-best-that-he-can-set-his-mind-to-be-one-of-my-main-goals-in-life-is-to-gratify-those-that-have-guided-him-along-the-road-of-success-when-hes-not-busy-with-work-hed-often-do-sports-or-music-related-hobbies-uRJ {
+  max-width: 111.7rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .rectangle-87-xH6 {
+  width: 21.6rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 136.7rem;
+  top: 26.45rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4rem;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .mentor-me-STA {
+  width: 14.3rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 140.25rem;
+  top: 27.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .group-12-Skg .group-78-pic {
+  width: 31.1rem;
+  height: 2.0755rem;
+  position: absolute;
+  left: 46.7rem;
+  top: 29.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-a5kn-Mz8 .dohn-joe-1-SV6 {
+  width: 40.9rem;
+  height: 36.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv {
+  margin-right: 4.05rem;
+  width: 168.25rem;
+  height: 36.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri {
+  box-sizing: border-box;
+  padding: 5.414rem 9.85rem 4.1rem 46.65rem;
+  width: 168.15rem;
+  height: 36.75rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.05rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-12-oMa {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-12-oMa .group-10-XHa {
+  margin: 0rem 74.1rem 0.936rem 0rem;
+  width: calc(100% - 74.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-12-oMa .group-10-XHa .sary-mue-d5i {
+  margin-right: 3.85rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-12-oMa .group-10-XHa .iamsarymue-tXS {
+  margin-top: 1.4721rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-12-oMa .i-am-currently-working-at-hilti-malaysia-as-technical-business-analyst-specializing-in-data-analytics-oracle-reporting-system-design-and-project-management-with-an-academic-background-of-finance-accounting-and-management-science-i-enjoy-reading-doing-puzzles-wonder-into-natures-hiking-music-food-festivals-and-meeting-people-bRr {
+  margin-left: 0.05rem;
+  max-width: 111.6rem;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-fsms-htC {
+  margin-left: 0.05rem;
+  width: calc(100% - 0.05rem);
+  height: 6.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-fsms-htC .group-79-mt4 {
+  margin: 0.076rem 58.9rem 0rem 0rem;
+  width: 31.1rem;
+  height: 2.0755rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .group-13-1Ri .group-fsms-htC .group-rrnx-Tkt {
+  width: 21.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-87.png');
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-wacp-uqz .group-1yja-hfv .dalle-2023-03-13-1429-1-9XE {
+  width: 40.9rem;
+  height: 36.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+
+.talks-speaker-details-d7n .group-99-CVW {
+  box-sizing: border-box;
+  padding: 3.7rem 25.4rem 1.2rem 10rem;
+  width: 100%;
+  height: 26.1rem;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #423e6c;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .pathfinderlogo-removebg-preview-2-PZz {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-w5zz-4w2 {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-w5zz-4w2 .navigate-LNk {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-w5zz-4w2 .insights-e8Y {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-w5zz-4w2 .job-experience-vrk {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-w5zz-4w2 .dashboard-CZN {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .pathfinder-Hqi {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-2b2y-9sv {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-2b2y-9sv .about-pjA {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-2b2y-9sv .about-us-7yA {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-2b2y-9sv .mission-npQ {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-2b2y-9sv .vision-3EY {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-euj8-9Ha {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-euj8-9Ha .contact-3tk {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-euj8-9Ha .group-r3fe-wjE {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-euj8-9Ha .group-r3fe-wjE .vector-qZi {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .group-euj8-9Ha .group-r3fe-wjE .uiw-facebook-fHr {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .group-99-CVW .vector-UFJ {
+  margin-bottom: 7.5rem;
+  width: 3.6rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/instagram.png');
+  flex-shrink: 0;
+}
+
+.talks-speaker-details-d7n .bi-arrow-left-square-fill-w8t {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.arrow-container {
+  width: 168.25rem;
+  height: 100%;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}

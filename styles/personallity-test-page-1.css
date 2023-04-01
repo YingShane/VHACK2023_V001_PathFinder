@@ -1,0 +1,163 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.personallity-test-page-1-YxQ {
+  box-sizing: border-box;
+  padding: 5.1rem 7.5rem 4.5rem 7.5rem;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf2ff;
+}
+
+.personallity-test-page-1-YxQ .pathfinderlogo-removebg-preview-2-SXz {
+  margin: 0rem 153.8rem 5.7rem 0rem;
+  width: 23.2rem;
+  height: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .bi-arrow-left-square-fill-L7a {
+  margin: 0rem 171rem 0.45rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v {
+  margin: 0rem 73.95rem 1.3rem 51.9rem;
+  height: 31.65rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v .frame-6-hMS {
+  margin: 5.65rem 7.05rem 11rem 0rem;
+  width: 15rem;
+  height: calc(100% - 16.65rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v .group-63-cjJ {
+  width: 29.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v .group-63-cjJ .ellipse-12-ZuS {
+  width: 29.1rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #655dbb;
+  border-radius: 14.55rem;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v .group-63-cjJ .untitleddesign-removebg-preview-2-Jc8 {
+  width: 27.45rem;
+  height: 25.05rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 1.95rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.personallity-test-page-1-YxQ .group-wtc8-r5v .group-63-cjJ .polygon-2-1WY {
+  width: 3.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 27.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.personallity-test-page-1-YxQ .welcome-im-koalaai-your-personal-assistant-Loi {
+  margin-bottom: 6.4rem;
+  max-width: 59.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.1800000932;
+  letter-spacing: -0.18rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .to-get-started-please-conduct-a-personality-test-to-help-me-know-you-better-2Ak {
+  margin: 0rem 0rem 6.9rem 0.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #757575;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .group-knhw-W5v {
+  margin: 0rem 77.4rem 14.75rem 77.4rem;
+  width: 30rem;
+  height: 6rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 1.9rem rgba(101, 93, 187, 0.4099999964);
+  background-color: #655dbb;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+
+.personallity-test-page-1-YxQ .vector-YHW {
+  margin-left: 0.15rem;
+  width: 4.65rem;
+  height: 2.55rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

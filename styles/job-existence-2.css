@@ -1,0 +1,1821 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.job-existence-2-cloned-15a {
+  width: 100%;
+  height: 312.8rem;
+  position: relative;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv {
+  box-sizing: border-box;
+  padding: 4.6rem 0rem 10.6rem 0rem;
+  width: 100%;
+  height: 286.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf2ff;
+  justify-content: center;
+  align-items: center;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ {
+  margin: 0rem 9.7rem 3.8rem 9.6rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .pathfinderlogo-removebg-preview-4-aRW {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .content--HKv {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .content--HKv .magnifyingglass-6HN {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .content--HKv .placeholder-label-LSc {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .content--HKv .mic-DWQ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .insights-v9v {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .experience-coS {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .group-qvbw-GQp .mentorship-w52 {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-80-ZmJ .image-86-f12 {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/image-86-9c4.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG {
+  height: 261.7rem;
+  position: relative;
+  flex-shrink: 0;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 {
+  width: 100%;
+  height: 52.5rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .image-80-a1W {
+  width: 192rem;
+  height: 52.3rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 103.415% 213.215%;
+  background-position: -3.278rem -8.0923rem;
+  background-image: url('../images/image-80.png');
+  border-radius: 2rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .rectangle-78-DqA {
+  width: 192rem;
+  height: 52.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(-180deg, rgba(217, 217, 217, 0) -0%, rgba(227, 231, 238, 0.5699999928) 24.27%, rgba(234, 240, 253, 0.9599999785) 85.21%, #eaf0fd 98.23%);
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .input-gik {
+  box-sizing: border-box;
+  padding: 0.85rem 3.45rem;
+  width: 23.7rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 73.8rem;
+  top: 30.4rem;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  background-color: #ffd9d9;
+  border-radius: 2.8rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .input-gik .input-aJL {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2222222222;
+  color: rgba(0, 0, 0, 0.8500000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .group-111-FQU {
+  box-sizing: border-box;
+  padding: 2.606rem 3.301rem 2.593rem 3.198rem;
+  width: 9.5987rem;
+  height: 9.5987rem;
+  position: absolute;
+  left: 176.1021rem;
+  top: 28.1945rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bookmark-circle.png');
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .group-111-FQU .vector-j4k {
+  width: 3.1rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .software-engineering-ceL {
+  width: 48.8rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 28rem;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-112-fv8 .forecasting-calculations-u7e {
+  width: 50.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 37.8rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ {
+  box-sizing: border-box;
+  padding: 5.5rem 6.5rem 10rem 5.1rem;
+  width: 173.2rem;
+  height: 215rem;
+  left: 9.4rem;
+  top: 46.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 4.1rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap {
+  margin-bottom: 13.8rem;
+  box-sizing: border-box;
+  padding-left: 2rem;
+  width: 100%;
+  grid-template-columns: repeat(2, 87.6375rem);
+  grid-auto-rows: 44.25rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 {
+  margin: 2.5rem 5.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 6.202rem 6.5rem 4.5rem;
+  width: 119.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-110-Wnt.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp {
+  margin: 0rem 30.898rem 2.1rem 0rem;
+  width: calc(100% - 30.8981rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-E5N {
+  margin-right: 6.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 3.1rem 0rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-E5N .group-ct64-9CL {
+  margin-right: 8.6rem;
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 2rem 2.4rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-E5N .vector-Q8G {
+  margin-bottom: 0.8rem;
+  width: 1.6rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-616 {
+  box-sizing: border-box;
+  padding: 0.8rem 3.2rem 0rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-616 .group-z25n-1tk {
+  margin-right: 9.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 2rem 2.1rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .group-kntq-9Jp .popup-search-dropdown-616 .vector-Fo6 {
+  margin-bottom: 0.8rem;
+  width: 1.6rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-kfhz-gg8 .chart-L3r {
+  margin-left: 0.0335rem;
+  width: 108.6646rem;
+  height: 35.5001rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J {
+  width: 34.8rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .group-yyha-wZS {
+  box-sizing: border-box;
+  padding-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .group-yyha-wZS .parameters-tDn {
+  margin-bottom: 2.2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1800000509;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .group-yyha-wZS .scale-c9n {
+  margin-left: 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-X1r {
+  margin-bottom: 5.5rem;
+  width: 100%;
+  height: 4.8rem;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-X1r .wrapper-r48 {
+  box-sizing: border-box;
+  padding: 1.2rem 1.306rem 1rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  border-radius: 0 0.2rem 0.2rem 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-X1r .wrapper-r48 .item-31-is2 {
+  margin-right: 28.0063rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-X1r .wrapper-r48 .components-input-affix-38c {
+  margin-bottom: 0.1994rem;
+  width: 1.1875rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .weightage-VmJ {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-Cfi {
+  margin-bottom: 5.2rem;
+  width: 100%;
+  height: 4.8rem;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-Cfi .wrapper-YzU {
+  box-sizing: border-box;
+  padding: 0.8rem 1.306rem 1.4rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  border-radius: 0 0.2rem 0.2rem 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-Cfi .wrapper-YzU .percentages-smr {
+  margin-right: 16.7063rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-Cfi .wrapper-YzU .components-input-affix-Cp8 {
+  margin-top: 0.6006rem;
+  width: 1.1875rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .unit-of-measurement-eRE {
+  margin: 0rem 0rem 1.5rem 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-9Mz {
+  width: 100%;
+  height: 4.8rem;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-9Mz .wrapper-Hyz {
+  box-sizing: border-box;
+  padding: 0.9rem 1.306rem 1.3rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  border-radius: 0 0.2rem 0.2rem 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-9Mz .wrapper-Hyz .months-d2G {
+  margin-right: 22.3063rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-xown-Ypp .group-vkcc-R5J .input-9Mz .wrapper-Hyz .components-input-affix-vn4 {
+  margin-top: 0.4006rem;
+  width: 1.1875rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-yvja-PvY {
+  display: flex;
+  align-items: flex-end;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-yvja-PvY .job-popularity-L56 {
+  margin-right: 13.95rem;
+  margin-left: 2rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-yvja-PvY .market-demand-2ic {
+  margin-right: 12.25rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-yvja-PvY .market-supply-KSp {
+  margin-right: 11.4rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-yvja-PvY .average-salary-26L {
+  margin-bottom: 0.2rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA {
+  height: 0.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA .line-3-stroke-H2G {
+  margin-right: 3.9rem;
+  width: 27.8rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA .line-4-stroke-QMn {
+  width: 27.7rem;
+  height: 0.3rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA .group-z6nu-M28 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0rem 5.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA .group-z6nu-M28 .line-5-stroke-5D2 {
+  margin-right: 2.7rem;
+  width: 27.7rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-114-Fap .group-3que-8fA .group-z6nu-M28 .line-6-stroke-1Ma {
+  width: 27.8rem;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 {
+  margin: 0rem 3.2rem 9.5rem 3.6rem;
+  width: calc(100% - 6.8rem);
+  height: 49.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp {
+  width: 35rem;
+  height: 25.8185rem;
+  position: absolute;
+  left: 41.5rem;
+  top: 17.4344rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .main-plate-emboss-light-HCc {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .main-plate-emboss-shadow-cVn {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.459rem;
+  top: 0.6862rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .main-plate-emboss-Y8Y {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.1148rem;
+  top: 0.1715rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .top-4-sAp {
+  width: 13.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10.55rem;
+  top: 3.2656rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .prediction-of-the-most-secure-job-in-the-next-20-years-Mrg {
+  width: 24.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 9.1656rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-ySp .since-2017-eKz {
+  width: 9.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 18.9656rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .rectangle-111-stroke-7UU {
+  width: 154.8rem;
+  height: 49.5rem;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk {
+  width: 35rem;
+  height: 25.8185rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 17.4344rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .main-plate-emboss-light-hxU {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .main-plate-emboss-shadow-3WY {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.459rem;
+  top: 0.6862rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .main-plate-emboss-mBe {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.1148rem;
+  top: 0.1715rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .number-of-searches-across-the-internet-for-this-job-tXA {
+  width: 25rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 4.75rem;
+  top: 9.1656rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .since-2019-m5A {
+  width: 9.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 18.6rem;
+  top: 18.9656rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .rectangle-232-eek {
+  width: 9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 18.0656rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .icon-arrow-up-small-aYQ {
+  width: 1.2879rem;
+  height: 1.8035rem;
+  position: absolute;
+  left: 10.0311rem;
+  top: 18.9589rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .top-2-6Fr {
+  width: 13.5rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 3.2656rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-1pk .item-5-awi {
+  width: 2.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 18.8656rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1800000932;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N {
+  width: 35rem;
+  height: 25.8185rem;
+  position: absolute;
+  left: 79.2rem;
+  top: 17.4344rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .main-plate-emboss-light-PeG {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .main-plate-emboss-shadow-w9z {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.459rem;
+  top: 0.6862rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .main-plate-emboss-5GC {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.1147rem;
+  top: 0.1715rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .top-6-bVS {
+  width: 13.7rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 3.2656rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .most-in-demand-job-in-the-computer-science-category-VKv {
+  width: 22.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 5.85rem;
+  top: 9.1656rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .since-2020-Awr {
+  width: 9.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 18.9656rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .rectangle-234-gQQ {
+  width: 9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 18.0656rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .item-2-D9S {
+  width: 2.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 18.8656rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1800000932;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-69N .icon-arrow-up-small-ibz {
+  width: 1.2879rem;
+  height: 1.8035rem;
+  position: absolute;
+  left: 10.5311rem;
+  top: 19.0709rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ {
+  width: 35rem;
+  height: 25.8185rem;
+  position: absolute;
+  left: 116.8rem;
+  top: 17.4344rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .main-plate-emboss-light-Wnk {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .main-plate-emboss-shadow-rbi {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.459rem;
+  top: 0.6862rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .main-plate-emboss-a1v {
+  width: 34.541rem;
+  height: 25.1324rem;
+  position: absolute;
+  left: 0.1147rem;
+  top: 0.1715rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .top-16-6W4 {
+  width: 15.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 9.7rem;
+  top: 3.2656rem;
+  text-align: center;
+  font-size: 3.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .best-job-to-earn-a-living-as-a-fresh-graduate-CJC {
+  width: 19.4rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 7.55rem;
+  top: 9.1656rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.1800000451;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .since-2020-68g {
+  width: 9.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 20rem;
+  top: 18.9656rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .rectangle-235-nnC {
+  width: 9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 18.0656rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .item-2-ifr {
+  width: 2.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 14rem;
+  top: 18.8656rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1800000932;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .main-plate-emboss-RmJ .icon-arrow-up-small-DsW {
+  width: 1.2879rem;
+  height: 1.8035rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 18.9164rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .rectangle-233-YPz {
+  width: 9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 35.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .item-3-3rY {
+  width: 2.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 54.8rem;
+  top: 36.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1800000932;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-M6Y {
+  box-sizing: border-box;
+  padding: 0.8rem 4rem 0rem 0.8rem;
+  width: 35.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 3.9rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-M6Y .group-nf3e-dJx {
+  margin-right: 6.2rem;
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 2.1rem 2.1rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-M6Y .vector-JR6 {
+  margin-top: 0.6279rem;
+  width: 1.8rem;
+  height: 1.0253rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-b9J {
+  box-sizing: border-box;
+  padding: 0.8rem 3.3rem 0rem 0.8rem;
+  width: 35.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 45.6rem;
+  top: 3.9rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-b9J .group-tnst-scc {
+  margin-right: 11rem;
+  width: 18.8rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .popup-search-dropdown-b9J .vector-YTr {
+  margin-top: 0.6279rem;
+  width: 1.8rem;
+  height: 1.0253rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-115-Kt4 .icon-arrow-up-small-SZE {
+  width: 1.2879rem;
+  height: 1.8035rem;
+  position: absolute;
+  left: 52.5311rem;
+  top: 36.3934rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n {
+  margin: 0rem 1.9rem 0rem 4.9rem;
+  box-sizing: border-box;
+  padding: 9.2rem 5.2rem 3.9rem 2.2rem;
+  width: calc(100% - 6.8rem);
+  height: 62.8rem;
+  display: flex;
+  align-items: flex-end;
+  box-shadow: 0 0 1.2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU {
+  margin-right: 1.5rem;
+  width: 35.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .popup-search-dropdown-Vvp {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 2.1rem 2.5rem 2rem 2.5rem;
+  width: 100%;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.1800000851;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.150000006);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG {
+  box-sizing: border-box;
+  padding: 0rem 0rem 2.7rem 0.1rem;
+  width: 33.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(90deg, #ffd9d9 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 1.5rem;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG .image-43-ce4 {
+  margin-bottom: 2.2rem;
+  width: 33.8rem;
+  height: 23.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG .group-gspn-aUQ {
+  margin: 0rem 1.9rem 2.6rem 2.8rem;
+  width: calc(100% - 4.7rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG .group-gspn-aUQ .data-scientist-sTW {
+  margin: 0.1rem 2.4rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG .group-gspn-aUQ .group-ydiy-BDJ {
+  width: 9.9rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-69.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-rwqp-yxU .group-uzdz-JtG .similarity-nD6 {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN {
+  margin-right: 3rem;
+  width: 34.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(90deg, #ffd9d9 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .image-236-7eg {
+  width: 34.5rem;
+  height: 23.9rem;
+  position: relative;
+  background-size: 156.405% 100%;
+  background-position: -13.8998rem 0;
+  background-image: url('../images/image-236.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .group-ueqn-NqW {
+  box-sizing: border-box;
+  padding: 2.2rem 1.2rem 2.5rem 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .group-ueqn-NqW .group-pal8-6Wc {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .group-ueqn-NqW .group-pal8-6Wc .devops-engineer-pxQ {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .group-ueqn-NqW .group-pal8-6Wc .group-sl4q-9Dz {
+  width: 9.9rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-69.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-vlgg-QVN .group-ueqn-NqW .similarity-DDr {
+  margin-left: 1.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp {
+  margin-right: 4.7rem;
+  width: 34rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(90deg, #ffd9d9 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .image-235-9mi {
+  width: 34rem;
+  height: 23.9rem;
+  position: relative;
+  background-size: 176.573% 100%;
+  background-position: -8.4816rem 0;
+  background-image: url('../images/image-235.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .group-pvrv-eiU {
+  box-sizing: border-box;
+  padding: 2.2rem 1.4rem 2.7rem 2.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .group-pvrv-eiU .group-bdbv-aME {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .group-pvrv-eiU .group-bdbv-aME .system-engineer-vAC {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .group-pvrv-eiU .group-bdbv-aME .group-xacx-Duz {
+  width: 9.9rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-69.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-67da-rGp .group-pvrv-eiU .similarity-7Eg {
+  margin-right: 0.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU {
+  width: 34rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(90deg, #ffd9d9 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .image-234-t8x {
+  width: 34rem;
+  height: 23.9rem;
+  position: relative;
+  background-size: 150.886% 100%;
+  background-position: -0.0558rem 0;
+  background-image: url('../images/image-234.png');
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .group-8m9r-xuW {
+  box-sizing: border-box;
+  padding: 2.2rem 1.9rem 2.2rem 2.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .group-8m9r-xuW .group-q6up-u44 {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .group-8m9r-xuW .group-q6up-u44 .qa-analyst-S3z {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .group-8m9r-xuW .group-q6up-u44 .group-l3ur-Ycp {
+  box-sizing: border-box;
+  padding: 0.6rem 3.3rem 0.1rem 3.2rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/rectangle-69.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-mzoz-6Mv .group-zk5a-KrG .group-113-ydJ .group-116-x1n .group-bnhv-ZcU .group-8m9r-xuW .similarity-ccg {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 {
+  box-sizing: border-box;
+  padding: 3.7rem 25.4rem 1.2rem 10rem;
+  width: 100%;
+  height: 26.1rem;
+  position: absolute;
+  left: 0;
+  top: 286.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #423e6c;
+  justify-content: center;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .pathfinderlogo-removebg-preview-2-QS4 {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-3pde-ViQ {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-3pde-ViQ .navigate-QqN {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-3pde-ViQ .insights-jck {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-3pde-ViQ .job-experience-GMn {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-3pde-ViQ .dashboard-PSQ {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .pathfinder-ggQ {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-wkrj-a16 {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-wkrj-a16 .about-6EL {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-wkrj-a16 .about-us-R1i {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-wkrj-a16 .mission-8B2 {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-wkrj-a16 .vision-Ejr {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-be2u-mDz {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-be2u-mDz .contact-4yn {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-be2u-mDz .group-fa6l-9kL {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-be2u-mDz .group-fa6l-9kL .vector-thv {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .group-be2u-mDz .group-fa6l-9kL .uiw-facebook-QAU {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .group-99-Xt4 .vector-hQU {
+  margin-bottom: 7.5rem;
+  width: 3.6rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/instagram.png');
+  flex-shrink: 0;
+}
+
+.job-existence-2-cloned-15a .bi-arrow-left-square-fill-1AG {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}

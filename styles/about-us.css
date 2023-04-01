@@ -1,0 +1,777 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+.about-us-Z6Y {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: #ecf2ff;
+  justify-content: center;
+}
+
+.group-zv5r-uAQ {
+  width: 100%;
+  height: 282.6rem;
+  align-items: center;
+  background-color: #ecf2ff;
+}
+
+.group-wmng-poA {
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-bottom: 7rem;
+}
+
+.group-80-kB2 {
+  margin: 0rem 0.7rem 12.3rem 0rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.group-ql7i-GfA {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.pathfinderlogo-removebg-preview-4-of6 {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.content--KdS {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.magnifyingglass-xwJ {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.placeholder-label-2AU {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mic-vWk {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.insights-qdi {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.experience-xTS {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mentorship-sKW {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.image-86-Q4Y {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/dp.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.group-yoex-Jfi {
+  margin: 0rem 0rem 8rem 3.7rem;
+  box-sizing: border-box;
+  padding-bottom: 9.7rem;
+  width: 169.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 4.1rem;
+  flex-shrink: 0;
+}
+
+.group-8ql4-REY {
+  box-sizing: border-box;
+  padding: 5rem 29.35rem 3.4rem 24.95rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.group-kf6x-9gL {
+  margin: 0 36.25rem;
+  width: calc(100% - 72.5rem);
+  height: 17rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-pathfinder-VkC {
+  width: 42.9rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 9.5rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.pathfinderlogo-removebg-preview-6-oVz {
+  width: 10.6rem;
+  height: 10.6rem;
+  position: relative;
+  left: 16.2rem;
+  top: 0;
+  background-size: 490.559% 100%;
+  background-position: -0.3277rem 0;
+  background-image: url('../images/pathfinder-logo-black.png');
+}
+
+.p1 {
+  max-width: 115.4rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #5d5d5d;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.group-ebfw-a9N {
+  margin-bottom: 5.4rem;
+  width: 100%;
+  height: 17.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.rectangle-271-imN {
+  width: 140.4rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 29.3rem;
+  top: 0;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #d0ceea;
+}
+
+.rectangle-269-dtL {
+  width: 43.1rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #847dc9;
+  border-radius: 0 5rem 5rem 0;
+}
+
+.mission-MZS {
+  width: 19.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 5.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.1800000763;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.to-provide-career-guidance-and-resources-to-individuals-at-different-levels-of-education-to-help-them-make-informed-career-choices-and-navigate-the-job-market-eHe {
+  width: 104rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 50.1rem;
+  top: 5.15rem;
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.group-twhn-69e {
+  width: 100%;
+  height: 17.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.rectangle-272-dQU {
+  width: 137.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #d0ceea;
+}
+
+.rectangle-270-xSk {
+  width: 43.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 0;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #847dc9;
+  border-radius: 0 5rem 5rem 0;
+}
+
+.vision-5XN {
+  width: 15.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 140.35rem;
+  top: 5.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.1800000763;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.to-become-the-leading-online-platform-for-career-exploration-and-job-readiness-using-advanced-technology-and-personalized-solutions-BKW {
+  width: 91.9rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 26.6rem;
+  top: 5.2rem;
+  text-align: right;
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.powered-by-nq6 {
+  margin: 0rem 0rem 1.5rem 3.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.group-63-JYY {
+  margin: 0rem 70.65rem 2.3rem 73.65rem;
+  height: 31.5rem;
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+
+.ellipse-12-ESC {
+  width: 29.1rem;
+  height: 29.1rem;
+  left: 0;
+  top: 2.4rem;
+  background-color: #655dbb;
+  border-radius: 14.55rem;
+}
+
+.untitleddesign-removebg-preview-2-xd6 {
+  width: 27.45rem;
+  height: 25.05rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 4.35rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.group-63-JYY .polygon-2-gZ6 {
+  width: 3.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12.75rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.yours-and-truly-cxY {
+  margin-left: 3.7rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #5d5d5d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.koalaai-9Sg {
+  margin-left: 3.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.group-kioa-gSc {
+  box-sizing: border-box;
+  padding: 12.3rem 60rem 30rem 60rem;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #d0ceea;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.our-beliefs-QdW {
+  margin: 0rem 0.2rem 5.1rem 0rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.group-xafa-j9z {
+  width: 100%;
+  height: 69.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  position: relative;
+  justify-content: center;
+}
+
+.untitleddesign-removebg-preview-3-t2t {
+  margin-bottom: 1.2rem;
+  width: 27.4rem;
+  height: 25.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.group-93yr-QX2 {
+  width: 126.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.rectangle-273-9jW {
+  width: 122.3rem;
+  height: 69.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #847dc9;
+  border-radius: 3.2rem;
+}
+
+.everyone-deserves-access-to-career-guidance-and-resources-regardless-of-their-educational-background-or-socioeconomic-status-57N {
+  width: 91.8rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 23.4rem;
+  top: 9.3rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.polygon-3-8rL {
+  width: 6.2rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 31.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.technology-can-be-used-to-enhance-career-exploration-and-job-readiness-by-providing-immersive-experiences-and-personalized-solutions-UfJ {
+  width: 90.3rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 27.3rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.collaboration-between-individuals-companies-and-educational-institutions-is-necessary-to-prepare-individuals-for-the-workforce-and-address-talent-gaps-in-various-industries-wYt {
+  width: 89.3rem;
+  height: 18rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 45.6rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.icon-chevron-double-right-PQt {
+  width: 3.5rem;
+  height: 3.383rem;
+  position: absolute;
+  left: 16rem;
+  top: 10.5254rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.icon-chevron-double-right-iCG {
+  width: 3.5rem;
+  height: 3.383rem;
+  position: absolute;
+  left: 16rem;
+  top: 28.5192rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.icon-chevron-double-right-e5v {
+  width: 3.5rem;
+  height: 3.383rem;
+  position: absolute;
+  left: 16rem;
+  top: 46.513rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.group-99-XQc {
+  box-sizing: border-box;
+  padding: 3.7rem 25.4rem 1.2rem 10rem;
+  width: 100%;
+  height: 26.1rem;
+  position: absolute;
+  left: 0;
+  top: 282.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #423e6c;
+  justify-content: center;
+}
+
+.pathfinderlogo-removebg-preview-2-E48 {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.group-ggoa-vSk {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.navigate-3XN {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.insights-a1W {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.job-experience-6Ve {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.dashboard-E64 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.pathfinder-MwN {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.group-onbj-s92 {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-zUY {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-jBE {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mission-FfN {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.vision-Njz {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.group-kjze-7Sg {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.contact-TFe {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.group-pedw-PQC {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.vector-YH6 {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.uiw-facebook-rHn {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.vector-xbi {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  flex-shrink: 0;
+  background-image: url('../images/instagram.png');
+}
+
+.bi-arrow-left-square-fill-sTn {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  left: 7.7rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,594 @@
+html {
+  font-size: 45%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 100%;
+}
+
+.home-page-hEp {
+  width: 100%;
+  height: 175.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.home-page-hEp .group-ckyv-RRi {
+  box-sizing: border-box;
+  padding: 4.6rem 9.7rem 20.7rem 9.6rem;
+  width: 100%;
+  height: 149.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #433f6c;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e {
+  margin-bottom: 9.8rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN {
+  box-sizing: border-box;
+  padding: 0.4rem 6rem 0.5rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .pathfinderlogo-removebg-preview-1-ybe {
+  margin-right: 34.2rem;
+  width: 23.3rem;
+  height: 5.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .content--gkx {
+  margin: 1rem 6.4rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem;
+  height: calc(100% - 1.5rem);
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .content--gkx .magnifyingglass-KJ8 {
+  margin-right: 7.65rem;
+  width: 2.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.7777777778;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .content--gkx .placeholder-label-Pon {
+  margin-right: 26.75rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.6000000238);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .content--gkx .mic-6TJ {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .insights-Qit {
+  margin: 0.6rem 8.9rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .experience-Wmv {
+  margin: 0.4rem 9.3rem 0rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .group-jh5r-eZN .mentorship-SQg {
+  margin-top: 0.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-73-73e .image-86-mxk {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  background-size: 100% 125%;
+  background-position: 0 0;
+  background-image: url('../images/dp.png');
+  border-radius: 20.9rem;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .find-your-dream-career-with-fHS {
+  margin: 0rem 0rem 2.7rem 0.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.1800000509;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .pathfinder-9iQ {
+  margin: 0rem 0rem 6.1rem 0.3rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 600;
+  line-height: 1.1800000872;
+  color: #ecf2ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .image-3-1-4aU {
+  margin: 0rem 0rem 9.7rem 0.3rem;
+  width: 16.2rem;
+  height: 16.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE {
+  margin: 0rem 7rem 0rem 6.3rem;
+  height: 59.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E {
+  box-sizing: border-box;
+  padding: 0.4rem 13rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-bdfe-3xC {
+  margin-right: 13.8rem;
+  box-sizing: border-box;
+  padding: 2.6rem 2.3rem 6rem 2.3rem;
+  width: 44.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-bdfe-3xC .untitled-1-1-Zfe {
+  margin-bottom: 4.5rem;
+  width: 39.7rem;
+  height: 26.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-bdfe-3xC .vr-job-simulation-7BN {
+  margin: 0rem 0.2rem 7.2rem 0rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 600;
+  line-height: 1.180000074;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-bdfe-3xC .experience-a-day-in-the-life-of-different-careers-to-get-a-picture-of-what-its-like-pLg {
+  margin-right: 0.2rem;
+  max-width: 34.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-8kza-fs6 {
+  box-sizing: border-box;
+  padding: 7.2rem 3.1rem 6rem 3rem;
+  width: 44.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-8kza-fs6 .untitled-22-1-z8g {
+  margin-bottom: 4.5rem;
+  width: 38rem;
+  height: 21.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-8kza-fs6 .career-insights-Kwe {
+  margin-bottom: 7.2rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 600;
+  line-height: 1.180000074;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-bnnl-i9E .group-8kza-fs6 .find-careers-that-suit-you-and-the-demand-for-these-jobs-in-the-future-THA {
+  max-width: 35.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-vstg-hhJ {
+  width: 44.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-vstg-hhJ .rectangle-270-3mA {
+  width: 44.2rem;
+  height: 58.9rem;
+  left: 0;
+  top: 0.4rem;
+  box-shadow: 0 0 4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 3.3rem;
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-vstg-hhJ .learn-about-a-career-from-an-experienced-individual-and-get-one-on-one-mentorship-from-them-Aat {
+  width: 37.9rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 44.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1800000668;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-vstg-hhJ .mentorship-and-expert-talks-SoJ {
+  width: 20rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 12.05rem;
+  top: 29.7rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 600;
+  line-height: 1.180000074;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.home-page-hEp .group-ckyv-RRi .group-89wg-zDE .group-vstg-hhJ .untitled-37-1-9xc {
+  width: 30.5rem;
+  height: 30.3rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.home-page-hEp .group-99-HJ8 {
+  box-sizing: border-box;
+  padding: 3.7rem 25.4rem 1.2rem 10rem;
+  width: 100%;
+  height: 26.1rem;
+  position: absolute;
+  top: 149.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}
+
+.home-page-hEp .group-99-HJ8 .pathfinderlogo-removebg-preview-2-ZmS {
+  margin: 0rem 33.8rem 2.4rem 0rem;
+  width: 25.5rem;
+  height: 5.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-ivpr-Gvk {
+  margin: 0rem 4.75rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-ivpr-Gvk .navigate-cUp {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-ivpr-Gvk .insights-YdN {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-ivpr-Gvk .job-experience-V2p {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-ivpr-Gvk .dashboard-RSG {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .pathfinder-APr {
+  margin: 19.3rem 16.05rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.1800000668;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-hd3n-5Wp {
+  margin: 0rem 23.9rem 4.5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-hd3n-5Wp .about-pjJ {
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-hd3n-5Wp .about-us-yMJ {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-hd3n-5Wp .mission-JPa {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-hd3n-5Wp .vision-psi {
+  margin-left: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1800000932;
+  color: rgba(255, 255, 255, 0.8999999762);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-o91i-ARn {
+  margin: 0rem 2rem 12.2rem 0rem;
+  width: 10rem;
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-o91i-ARn .contact-JH6 {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1800001144;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-page-hEp .group-99-HJ8 .group-o91i-ARn .group-k5vx-Dur {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+}
+
+.home-page-hEp .group-99-HJ8 .group-o91i-ARn .group-k5vx-Dur .vector-Aq6 {
+  margin-right: 2.3rem;
+  width: 3.6rem;
+  height: 4rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/linkedin.png');
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .group-o91i-ARn .group-k5vx-Dur .uiw-facebook-tFJ {
+  margin-bottom: 0.2rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/facebook.png');
+  flex-shrink: 0;
+}
+
+.home-page-hEp .group-99-HJ8 .vector-zJL {
+  margin-bottom: 7.5rem;
+  width: 3.6rem;
+  height: 3.9rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../images/instagram.png');
+  flex-shrink: 0;
+}
+
+.home-page-hEp .vector-uAQ {
+  width: 2.2rem;
+  height: 3.2112rem;
+  position: fixed;
+  right: 10rem;
+  top: 123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.home-page-hEp .chat-with-me-SAL {
+  width: 18rem;
+  height: 3rem;
+  position: fixed;
+  right: 8rem;
+  top: 119rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1800000763;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-page-hEp .untitleddesign-removebg-preview-1-vbJ {
+  width: 12.2rem;
+  height: 12rem;
+  cursor: pointer;
+  position: fixed;
+  right: 12rem;
+  top: 120rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+a {
+  text-decoration: none;
+}
